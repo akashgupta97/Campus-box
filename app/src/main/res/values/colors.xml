@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3293c3</color>
+    <color name="colorPrimaryDark">#006ba2</color>
+    <color name="textColorPrimary">#212121</color>
+    <color name="windowBackground">#FFFFFF</color>
+    <color name="navigationBarColor">#000000</color>
+    <color name="colorAccent">#878787</color>
+    <color name="tabsScrollColor">#FFF</color>
+    <color name="list_divider">#BDBDBD</color>
+    <color name="list_row_start_color">#ffffff</color>
+    <color name="list_row_end_color">#ffffff</color>
+    <color name="list_row_hover_start_color">#ebeef0</color>
+    <color name="list_row_hover_end_color">#ebeef0</color>
+    <color name="color1">#f44336</color>
+    <color name="color2">#2196f3</color>
+    <color name="color3">#1de9b6</color>
+    <color name="color4">#e91e63</color>
+    <color name="color5">#651fff</color>
+    <color name="success">#7dab7e</color>
+    <color name="info">#88b7cd</color>
+    <color name="warning">#f7c491</color>
+    <color name="danger">#ce807e</color>
+    <color name="lightPrimary">#BBDEFB</color>
+    <color name="GrayLight">#d3d3d3</color>
+
+    <color name="flat_blue">#4385f5</color>
+    <color name="flat_red">#db4336</color>
+    <color name="flat_yellow">#f3b60d</color>
+    <color name="flat_green">#109d59</color>
+    <color name="white">#FFFFFF</color>
+
+
+
+</resources>
